@@ -1,6 +1,6 @@
 {
-  "image": "https://i.ibb.co/JRZqncyr/enzo-kin-Xi-HXl-Tf-Nyow-unsplash.jpg"
-  "removeBackground": true
+  "image": "https://i.ibb.co/JRZqncyr/enzo-kin-Xi-HXl-Tf-Nyow-unsplash.jpg",
+  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
