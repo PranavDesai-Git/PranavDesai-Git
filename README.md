@@ -1,6 +1,3 @@
-<table>
-  <tr>
-    <td>
 <pre style="color: #41a65c; font-weight: bold;">
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(*^@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -30,8 +27,6 @@
 @@@@@@@@@@@@@@%>=~~~-~~-~~~~~~~~~~~~---~~==*====~==*<<<>^>>^>(#@@@@@@@@@
 @@@@@@@@@@@@@@<===~~~~~~~-~-~~~~~~~~====~~=~==~==><>^*^>^==*<[{@@@@@@@@@
 </pre>
-    </td>
-    <td>
 <pre>
 <b><span style="color: #41a65c;">PranavDesai-Git</span>@<span style="color: #42a5f5;">github</span></b>
 -------------------
@@ -40,11 +35,11 @@
 
 <b><span style="color: #41a65c;">Languages:</span></b> CPP, RUST, GO, PYTHON, JAVA, C
 <b><span style="color: #41a65c;">IDE:</span></b> Neovim
+  
 
 <b><span style="color: #42a5f5;">- Contact</span></b>
 <b><span style="color: #41a65c;">Email:</span></b> contact.pranavdesai@gmail.com
 <b><span style="color: #41a65c;">Website:</span></b> https://github.com/PranavDesai-Git
 </pre>
-    </td>
   </tr>
 </table>
