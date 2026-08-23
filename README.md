@@ -1,5 +1,5 @@
 <pre style="color: #41a65c; font-weight: bold;">
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@| 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@|
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(*^@@@@@@@@@@@@@@@@@@@@@@@@@|
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(^<<(>@@@@@@@@@@@@@@@@@@@@@@@@|
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(*^><]]]@@@@@@@@@@@@@@@@@@@@@@@|
@@ -31,7 +31,7 @@
 `builds the tool instead of reading the docs for it`
 
 - 🧠 2nd-yr CSE student, been writing code (started with games, spiraled into systems)
-- 🦀 rebuilt git from scratch in Rust — SHA-1, Zlib, the whole plumbing — because apparently that's a normal Tuesday
+- 🦀 rebuilt git from scratch in Rust — SHA-1, Zlib, the whole plumbing
 - 🐍 self-diagnosed ADHD via "too many project ideas," solved it by building an AI that manages my project ideas (qLog)
 - 🐧 profile Linux binaries with ptrace + DWARF unwinding for fun (hobbit), also made a desktop pet named rocky, no I will not explain the range
 - ⌨️ neovim, C++/Go/Rust/Java/Python/C/Assembly, mostly things I learn *while* building the project
