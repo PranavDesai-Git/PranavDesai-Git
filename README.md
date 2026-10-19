@@ -29,13 +29,13 @@
 </pre>
 
 `builds the tool instead of reading the docs for it`
-- 🧠 2nd-yr CSE student, been writing code (started with games, spiraled into systems)
-- 🦀 rebuilt git from scratch in Rust — SHA-1, Zlib, the whole plumbing
-- 🐍 self-diagnosed ADHD via "too many project ideas," solved it by building an AI that manages my project ideas (qLog)
-- 🐧 profile Linux binaries with ptrace + DWARF unwinding for fun (hobbit), also made a desktop pet named rocky, no I will not explain the range
-- ⌨️ neovim, C++/Go/Rust/Java/Python/C/Assembly, mostly things I learn *while* building the project
+- 2nd-yr CSE student, been writing code (started with games, spiraled into systems)
+- Rebuilt git from scratch in Rust — SHA-1, Zlib, the whole plumbing
+- Built a fucntional programming language (qLog)
+- neovim, C++/Go/Rust/Java/Python/C/Assembly, mostly things I learn *while* building the project
 
-**currently shipping:**
-- [graphLang](https://github.com/PranavDesai-Git/graphLang): accidentally started  writing a language
+## currently working on
+- An FFTA like 3d game written in raylib for android
+- Getting into networking.
 
-📫 contact.pranavdesai@gmail.com · 🌐 [portfolio](https://pranavdesai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pranav-desai-542961385/) · [X](https://x.com/prnvdsi)
+📫 contact.pranavdesai@gmail.com · 🌐 [blog](https://godobject.dev/) · 🌐 [portfolio](https://pranavdesai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pranav-desai-542961385/) · [X](https://x.com/prnvdsi)
